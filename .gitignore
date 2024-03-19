@@ -1,2 +1,5 @@
 # ignore d2l folder and everything in
 d2l/
+
+# ignore all data
+data/
